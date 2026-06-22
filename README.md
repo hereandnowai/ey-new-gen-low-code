@@ -22,7 +22,7 @@ This repository contains the training materials, labs, and resources for the **N
 
 This curriculum and content was created by:
 * **Ruthran Raghavan**  
-  *Chief AI Scientist, Here and Now AI*  
+  *Chief AI Scientist, HERE AND NOW AI*  
   *Website: [ruthranraghavan.com](https://ruthranraghavan.com)*
 
 ---

@@ -6,3 +6,6 @@
 // the `let`, `const`, or `var` keywords, each
 // with different scoping rules and mutability.
 
+let employeeName = "Anand";
+
+console.log("Employee Name:", employeeName)
