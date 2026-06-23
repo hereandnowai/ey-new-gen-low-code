@@ -5,5 +5,4 @@ const employee3: Employee = {
     salary: 50000,
     bonus: 5000,
     isApproved: true,
-    
 }
