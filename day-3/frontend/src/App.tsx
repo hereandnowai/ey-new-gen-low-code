@@ -53,12 +53,12 @@ export default function App() {
          <input
          type="text"
          value={input}
-         onChange={(e) => e.key === "Enter" && sendMessage()}
+         onChange={(e) => setInput(e.target.value)}
          placeholder="Type your message..."
          onKeyDown={(e) => e.key === "Enter" && sendMessage()}
          />
         <button onClick={sendMessage} disabled={loading}>Send</button> 
-      </div>"
+      </div>
 
     </div>
   )
