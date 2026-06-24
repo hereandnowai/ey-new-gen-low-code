@@ -47,8 +47,18 @@ export default function App() {
           <p className="message-text">{msg.text}</p>
         </div>
         ))}
-
-</div>
+        { loading && <div className="message bot loading">AI is typing...</div> }
+      </div>
+      <div className="input-area">
+         <input
+         type="text"
+         value={input}
+         onChange={(e) => e.key === "Enter" && sendMessage()}
+         placeholder="Type your message..."
+         onKeyDown={(e) => e.key === "Enter" && sendMessage()}
+         />
+        <button onClick={sendMessage} disabled={loading}>Send</button> 
+      </div>"
 
     </div>
   )
