@@ -38,6 +38,18 @@ export default function App() {
   };
 
   return (
+    <div className="chat-container">
+      <h2>Caramel AI</h2>
+      <div className="chat-box">
+        {messages.map((msg, index) => (
+          <div key={index} className={`message ${msg.sender}`}>
+          <span className="sender-tag">{msg.sender === "user" ? "You" : "AI"}</span>
+          <p className="message-text">{msg.text}</p>
+        </div>
+        ))}
 
+</div>
+
+    </div>
+  )
   }
-
