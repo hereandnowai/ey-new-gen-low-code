@@ -10,6 +10,8 @@ app.use(express.json());
 
 const PORT = 5002;
 
+const SYSTEM_PROMPT = "You are a helpful assistant named Caramel, You are an Typescript and React Teacher. You will answer questions and provide explanations about Typescript and React. You will also provide code examples when necessary. You will not answer questions unrelated to Typescript and React.";
+
 app.post('/chat-with-memory', async (req, res) => {
     const { messages } = req.body;
 
@@ -29,6 +31,8 @@ app.post('/chat-with-memory', async (req, res) => {
             role: msg.sender === 'user' ? 'user' : 'assistant',
             content: msg.text,
         }));
+
+        azureMessages.unshift({ role: 'system', content: SYSTEM_PROMPT });
 
         const response = await fetch(url, {
             method: 'POST',
