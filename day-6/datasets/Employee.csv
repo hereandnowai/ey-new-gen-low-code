@@ -1,0 +1,201 @@
+EmployeeId,FirstName,LastName,FullName,Title,DepartmentId,Email,Phone,HireDate,Salary,OfficeLocation,Status,TerminationDate,ManagerId
+1,Justin,Richardson,Justin Richardson,Senior Procurement Specialist,42,justin.richardson1@contoso.com,+1-652-652-4501,2020-03-19,139343.71,Manufacturing Plant 1,Active,,
+2,Andrew,Morgan,Andrew Morgan,Process Engineer,43,andrew.morgan2@contoso.com,+1-543-295-4848,2021-12-11,166011.29,Warehouse Central,Active,,53
+3,Charles,Brown,Charles Brown,Brand Manager,3,charles.brown3@contoso.com,+1-825-986-2193,2020-04-30,130143.67,Disaster Recovery Site,Active,,44
+4,Carolyn,Roberts,Carolyn Roberts,Help Desk Technician,32,carolyn.roberts4@contoso.com,+1-351-871-1090,2017-09-26,202288.87,Data Center Primary,Active,,154
+5,Mark,Thompson,Mark Thompson,Legal Counsel,45,mark.thompson5@contoso.com,+1-251-770-5082,2020-03-17,206382.55,Data Center Primary,Active,,37
+6,Kathleen,Cruz,Kathleen Cruz,Customer Success Specialist,34,kathleen.cruz6@contoso.com,+1-524-973-8251,2021-09-04,156087.63,Operations Center,Active,,42
+7,Stephen,Stewart,Stephen Stewart,Front-End Engineer,11,stephen.stewart7@contoso.com,+1-465-969-5050,2020-01-18,193577.38,Sales Office East,Active,,18
+8,Eric,Rivera,Eric Rivera,Content Strategist,41,eric.rivera8@contoso.com,+1-650-279-5681,2018-01-29,93691.44,Sales Office West,Active,,103
+9,Brenda,Hernandez,Brenda Hernandez,Program Manager,9,brenda.hernandez9@contoso.com,+1-592-910-3503,2017-08-05,171559.16,West Campus B,Active,,82
+10,Kevin,Bailey,Kevin Bailey,IT Support Specialist,30,kevin.bailey10@contoso.com,+1-411-630-7381,2015-09-13,204298.35,Disaster Recovery Site,Active,,83
+11,John,Howard,John Howard,Full-Stack Engineer,25,john.howard11@contoso.com,+1-560-505-7389,2015-01-25,195818.91,Customer Experience Hub,Active,,126
+12,Jack,Bailey,Jack Bailey,Marketing Analyst,39,jack.bailey12@contoso.com,+1-424-479-8140,2020-06-22,135130.93,Training Center,Active,,30
+13,Gregory,Evans,Gregory Evans,Senior Business Analyst,47,gregory.evans13@contoso.com,+1-330-837-9751,2020-03-29,59449.46,Training Center,Active,,87
+14,Raymond,Brown,Raymond Brown,Plant Manager,6,raymond.brown14@contoso.com,+1-338-672-3977,2019-10-22,63296.96,Training Center,Active,,26
+15,Ryan,Adams,Ryan Adams,Senior Security Analyst,22,ryan.adams15@contoso.com,+1-970-631-5133,2018-02-13,192760.3,APAC HQ,Inactive,,50
+16,Brenda,Miller,Brenda Miller,Marketing Analyst,23,brenda.miller16@contoso.com,+1-270-999-1659,2022-04-16,179448.48,Warehouse Central,Active,,101
+17,John,Watson,John Watson,Content Strategist,10,john.watson17@contoso.com,+1-684-885-2874,2016-06-01,148054.98,Manufacturing Plant 2,Active,,39
+18,Steven,Mitchell,Steven Mitchell,Logistics Coordinator,11,steven.mitchell18@contoso.com,+1-965-935-2876,2021-10-23,183335.66,Manufacturing Plant 1,Active,,7
+19,Jessica,Ward,Jessica Ward,Controller,2,jessica.ward19@contoso.com,+1-893-584-7498,2021-06-16,210342.65,Manufacturing Plant 2,Active,,41
+20,Frank,Brooks,Frank Brooks,Senior Data Analyst,16,frank.brooks20@contoso.com,+1-991-508-2983,2022-10-26,186377.49,Disaster Recovery Site,Active,,115
+21,Brian,Reed,Brian Reed,Executive Assistant,28,brian.reed21@contoso.com,+1-270-718-6590,2019-02-26,57087.6,Customer Experience Hub,Active,,28
+22,Jessica,Collins,Jessica Collins,Process Engineer,24,jessica.collins22@contoso.com,+1-924-356-8135,2020-02-27,84062.6,Operations Center,Active,,74
+23,Paul,Wood,Paul Wood,Full-Stack Engineer,35,paul.wood23@contoso.com,+1-646-948-5397,2020-03-19,108180.26,Warehouse Central,Active,,45
+24,Susan,Scott,Susan Scott,Brand Manager,29,susan.scott24@contoso.com,+1-675-783-7209,2023-06-01,110505.44,APAC HQ,Active,,51
+25,Betty,Rivera,Betty Rivera,Operations Analyst,14,betty.rivera25@contoso.com,+1-464-548-5581,2023-12-12,200252.8,Sales Office East,Active,,36
+26,Eric,Harris,Eric Harris,Content Strategist,6,eric.harris26@contoso.com,+1-616-700-4937,2023-01-28,168950.54,APAC HQ,Active,,14
+27,John,Lopez,John Lopez,Marketing Analyst,19,john.lopez27@contoso.com,+1-908-449-6016,2019-07-15,164553.4,Research Center,Active,,32
+28,Anna,Hall,Anna Hall,Customer Success Manager,28,anna.hall28@contoso.com,+1-560-919-8434,2018-09-16,99701.21,Sales Office East,Active,,21
+29,Patrick,Harris,Patrick Harris,Senior Data Engineer,21,patrick.harris29@contoso.com,+1-748-980-4033,2023-05-01,86604.26,APAC HQ,Active,,70
+30,Nicole,Cooper,Nicole Cooper,Financial Analyst,39,nicole.cooper30@contoso.com,+1-398-503-4727,2016-02-16,114545.38,Sales Office South,Inactive,,12
+31,Jonathan,Taylor,Jonathan Taylor,Senior IT Analyst,18,jonathan.taylor31@contoso.com,+1-766-499-3068,2015-08-12,160248.49,APAC HQ,Active,,40
+32,Mary,Howard,Mary Howard,Front-End Engineer,19,mary.howard32@contoso.com,+1-651-548-4020,2020-05-14,214307.11,Sales Office East,Active,,27
+33,Amy,Anderson,Amy Anderson,Help Desk Technician,5,amy.anderson33@contoso.com,+1-275-790-1878,2020-07-07,80034.96,Disaster Recovery Site,Active,,97
+34,David,Young,David Young,Customer Success Specialist,8,david.young34@contoso.com,+1-626-820-4697,2023-07-29,182989.43,Training Center,Active,,94
+35,Jeffrey,Hill,Jeffrey Hill,Database Administrator,38,jeffrey.hill35@contoso.com,+1-782-835-1986,2018-06-04,155589.1,Data Center Primary,Active,,61
+36,Anthony,Brooks,Anthony Brooks,Senior HR Generalist,14,anthony.brooks36@contoso.com,+1-283-360-4929,2022-05-29,83679.24,West Campus B,Active,,25
+37,Edward,Stewart,Edward Stewart,Supply Chain Analyst,45,edward.stewart37@contoso.com,+1-498-233-4792,2020-04-08,102537.31,Sales Office South,Active,,5
+38,Ryan,Martinez,Ryan Martinez,Marketing Manager,44,ryan.martinez38@contoso.com,+1-840-803-4241,2017-12-19,125147.93,Field Office North,Active,,69
+39,Lisa,Wright,Lisa Wright,Senior Network Engineer,10,lisa.wright39@contoso.com,+1-369-514-5728,2015-09-02,127460.32,European HQ,Active,,17
+40,Carolyn,Evans,Carolyn Evans,Test Automation Engineer,18,carolyn.evans40@contoso.com,+1-705-648-2317,2021-01-20,153676.05,Customer Experience Hub,Active,,31
+41,Helen,Allen,Helen Allen,Senior DevOps Engineer,2,helen.allen41@contoso.com,+1-890-789-1339,2017-07-26,219929.45,Sales Office East,Active,,19
+42,Daniel,Nguyen,Daniel Nguyen,Chief of Staff,34,daniel.nguyen42@contoso.com,+1-484-385-8141,2019-12-17,159739.48,APAC HQ,Active,,6
+43,Jacob,Hall,Jacob Hall,Purchasing Manager,27,jacob.hall43@contoso.com,+1-886-307-3634,2018-08-08,109417.6,APAC HQ,Active,,66
+44,Rebecca,Bell,Rebecca Bell,UX Designer,3,rebecca.bell44@contoso.com,+1-522-458-6296,2015-12-27,74127.06,Training Center,Active,,3
+45,James,Reyes,James Reyes,UI Developer,35,james.reyes45@contoso.com,+1-255-392-9494,2019-08-20,114693.59,APAC HQ,Active,,23
+46,Michael,Clark,Michael Clark,Customer Success Manager,18,michael.clark46@contoso.com,+1-494-648-8941,2016-06-20,75035.3,Innovation Hub,Active,,31
+47,Alexander,Lee,Alexander Lee,Customer Success Manager,20,alexander.lee47@contoso.com,+1-765-617-2527,2015-02-26,92075.61,Data Center Primary,Active,,92
+48,Sarah,Gray,Sarah Gray,Senior QA Engineer,10,sarah.gray48@contoso.com,+1-498-721-5479,2023-01-14,123555.91,APAC HQ,Active,,17
+49,Dorothy,Flores,Dorothy Flores,Project Manager,36,dorothy.flores49@contoso.com,+1-395-813-9327,2019-04-21,178138.27,Data Center Secondary,Active,,166
+50,Emily,Torres,Emily Torres,Test Automation Engineer,22,emily.torres50@contoso.com,+1-202-489-5891,2017-12-30,193183.53,Disaster Recovery Site,Active,,15
+51,Gary,Martin,Gary Martin,Compliance Officer,29,gary.martin51@contoso.com,+1-553-540-9903,2020-06-06,117239.66,Sales Office West,Active,,24
+52,Carolyn,Walker,Carolyn Walker,Cybersecurity Engineer,37,carolyn.walker52@contoso.com,+1-994-620-1715,2017-08-14,107499.09,APAC HQ,Active,,98
+53,Timothy,Roberts,Timothy Roberts,Chief of Staff,43,timothy.roberts53@contoso.com,+1-707-237-3068,2016-09-15,137878.04,Disaster Recovery Site,Active,,2
+54,Richard,Edwards,Richard Edwards,Senior Legal Counsel,7,richard.edwards54@contoso.com,+1-215-939-3361,2020-02-15,122646.47,Data Center Secondary,Active,,62
+55,Kimberly,Baker,Kimberly Baker,Director,40,kimberly.baker55@contoso.com,+1-865-282-6383,2019-06-17,195636.32,Field Office North,Active,,123
+56,Kenneth,Brooks,Kenneth Brooks,QA Engineer,46,kenneth.brooks56@contoso.com,+1-236-832-2121,2021-01-25,93737.09,Sales Office South,Active,,198
+57,Maria,Lopez,Maria Lopez,Data Analyst,28,maria.lopez57@contoso.com,+1-848-920-2646,2023-07-12,128206.96,Sales Office South,Active,,21
+58,Jennifer,Adams,Jennifer Adams,Senior Financial Analyst,4,jennifer.adams58@contoso.com,+1-583-641-3385,2019-01-08,95292.58,Customer Experience Hub,Active,,95
+59,Betty,Perez,Betty Perez,DevOps Engineer,12,betty.perez59@contoso.com,+1-591-834-4945,2021-11-01,137115.1,Disaster Recovery Site,Active,,102
+60,Kathleen,Bennett,Kathleen Bennett,UX Designer,17,kathleen.bennett60@contoso.com,+1-882-209-8622,2017-11-11,203699.55,Field Office North,Active,,85
+61,Jeffrey,Hall,Jeffrey Hall,Finance Manager,38,jeffrey.hall61@contoso.com,+1-634-906-5097,2022-03-02,130377.91,Sales Office South,Active,,35
+62,Stephanie,Murphy,Stephanie Murphy,Content Strategist,7,stephanie.murphy62@contoso.com,+1-785-567-5847,2019-04-12,218794.19,Sales Office South,Inactive,,54
+63,Raymond,Phillips,Raymond Phillips,Senior Software Engineer,18,raymond.phillips63@contoso.com,+1-902-996-1803,2021-05-07,205251.8,APAC HQ,Active,,31
+64,Andrew,Robinson,Andrew Robinson,Operations Analyst,39,andrew.robinson64@contoso.com,+1-851-394-5106,2017-06-16,166831.14,Data Center Secondary,Active,,12
+65,Benjamin,Gray,Benjamin Gray,Controller,3,benjamin.gray65@contoso.com,+1-651-234-6977,2023-11-05,175839.36,West Campus B,Active,,3
+66,Carol,Sullivan,Carol Sullivan,Solutions Architect,27,carol.sullivan66@contoso.com,+1-335-752-6994,2017-04-02,142590.64,Sales Office East,Active,,43
+67,Steven,Murphy,Steven Murphy,Facilities Coordinator,19,steven.murphy67@contoso.com,+1-679-277-3306,2016-04-16,179435.0,Warehouse Central,Active,,27
+68,Patrick,Hughes,Patrick Hughes,Customer Success Specialist,26,patrick.hughes68@contoso.com,+1-292-604-1228,2019-02-07,98635.67,Data Center Primary,Active,,
+69,Gregory,Sullivan,Gregory Sullivan,Senior HR Generalist,44,gregory.sullivan69@contoso.com,+1-590-853-7086,2021-07-22,72877.11,Warehouse Central,Active,,38
+70,Samantha,Gomez,Samantha Gomez,Warehouse Supervisor,21,samantha.gomez70@contoso.com,+1-863-264-8606,2017-06-25,205048.96,Sales Office South,Active,,29
+71,Joseph,Moore,Joseph Moore,IT Analyst,3,joseph.moore71@contoso.com,+1-704-318-2592,2018-05-31,93742.01,Field Office North,Active,,3
+72,Ryan,Mitchell,Ryan Mitchell,Senior Director,43,ryan.mitchell72@contoso.com,+1-629-801-3531,2021-01-21,201093.27,Data Center Primary,Active,,2
+73,Brandon,Turner,Brandon Turner,IT Analyst,18,brandon.turner73@contoso.com,+1-579-422-8264,2022-09-28,128374.82,Warehouse Central,Active,,31
+74,Richard,Price,Richard Price,Risk Analyst,24,richard.price74@contoso.com,+1-567-262-7523,2022-03-26,100520.44,Data Center Primary,Active,,22
+75,Ryan,Lopez,Ryan Lopez,Sales Manager,43,ryan.lopez75@contoso.com,+1-854-811-1349,2022-03-13,63345.45,Sales Office West,Active,,2
+76,Thomas,Kelly,Thomas Kelly,Network Engineer,14,thomas.kelly76@contoso.com,+1-767-412-4538,2023-08-01,189153.74,Warehouse Central,Active,,25
+77,Charles,Diaz,Charles Diaz,HR Manager,1,charles.diaz77@contoso.com,+1-333-753-5106,2016-08-15,186754.78,Data Center Primary,Active,,78
+78,Patricia,Taylor,Patricia Taylor,Operations Analyst,1,patricia.taylor78@contoso.com,+1-443-802-6304,2023-11-10,57603.88,Sales Office East,Active,,77
+79,Jack,Torres,Jack Torres,Data Engineer,34,jack.torres79@contoso.com,+1-265-687-8344,2023-05-13,183372.81,Operations Center,Active,,6
+80,Cynthia,Rogers,Cynthia Rogers,Warehouse Supervisor,15,cynthia.rogers80@contoso.com,+1-944-874-9543,2015-06-27,104769.0,Headquarters Tower,Active,,88
+81,Amy,Evans,Amy Evans,Senior Vice President,28,amy.evans81@contoso.com,+1-702-929-8267,2016-03-18,67125.97,West Campus B,Active,,21
+82,Charles,Rodriguez,Charles Rodriguez,HR Manager,9,charles.rodriguez82@contoso.com,+1-848-799-9984,2022-01-01,172505.21,Training Center,Active,,9
+83,Anna,Nguyen,Anna Nguyen,Test Automation Engineer,30,anna.nguyen83@contoso.com,+1-640-301-2874,2021-10-15,195710.8,Field Office North,Active,,10
+84,Sandra,Collins,Sandra Collins,Marketing Manager,29,sandra.collins84@contoso.com,+1-547-664-7532,2019-08-22,123638.29,Data Center Primary,Active,,24
+85,Kenneth,Cruz,Kenneth Cruz,Security Analyst,17,kenneth.cruz85@contoso.com,+1-903-685-2099,2016-09-17,70052.09,West Campus B,Active,,60
+86,Richard,Sullivan,Richard Sullivan,Security Analyst,48,richard.sullivan86@contoso.com,+1-769-261-6400,2016-06-16,165552.19,Customer Experience Hub,Active,,91
+87,Debra,Parker,Debra Parker,Systems Administrator,47,debra.parker87@contoso.com,+1-814-519-6761,2018-03-24,72094.09,Operations Center,Active,,13
+88,Raymond,Murphy,Raymond Murphy,Senior Data Analyst,15,raymond.murphy88@contoso.com,+1-769-576-2882,2018-12-05,180829.93,Disaster Recovery Site,Active,,80
+89,Jason,Gomez,Jason Gomez,Manufacturing Engineer,50,jason.gomez89@contoso.com,+1-891-858-1430,2021-11-18,155484.16,Sales Office East,Inactive,,128
+90,Paul,Long,Paul Long,Controller,49,paul.long90@contoso.com,+1-559-206-3972,2018-10-23,198527.35,Disaster Recovery Site,Active,,
+91,William,Jackson,William Jackson,Process Engineer,48,william.jackson91@contoso.com,+1-293-964-9691,2015-05-06,90496.93,Customer Experience Hub,Active,,86
+92,Christopher,Mitchell,Christopher Mitchell,Senior Procurement Specialist,20,christopher.mitchell92@contoso.com,+1-781-810-2391,2023-09-17,200751.46,Data Center Secondary,Active,,47
+93,Samantha,Miller,Samantha Miller,DevOps Engineer,44,samantha.miller93@contoso.com,+1-653-877-7947,2018-01-19,135134.18,European HQ,Active,,38
+94,Sandra,Morgan,Sandra Morgan,Facilities Manager,8,sandra.morgan94@contoso.com,+1-313-490-8972,2019-10-27,141944.13,Sales Office South,Inactive,,34
+95,Ronald,Diaz,Ronald Diaz,Software Engineer,4,ronald.diaz95@contoso.com,+1-508-416-3248,2017-04-17,181086.55,Sales Office South,Active,,58
+96,James,Cook,James Cook,Senior DBA,48,james.cook96@contoso.com,+1-332-589-9725,2016-12-20,171105.76,Operations Center,Active,,86
+97,Debra,Rivera,Debra Rivera,CISO,5,debra.rivera97@contoso.com,+1-243-646-1307,2023-04-28,130859.45,West Campus B,Active,,33
+98,Emma,Parker,Emma Parker,Help Desk Technician,37,emma.parker98@contoso.com,+1-855-627-5743,2022-12-16,74003.61,Headquarters Tower,Active,,52
+99,Nancy,Watson,Nancy Watson,Director,30,nancy.watson99@contoso.com,+1-290-647-2734,2019-01-22,95147.22,Disaster Recovery Site,Active,,10
+100,David,Phillips,David Phillips,Facilities Coordinator,20,david.phillips100@contoso.com,+1-541-997-3754,2017-06-26,67602.6,Data Center Primary,Active,,47
+101,Matthew,Hall,Matthew Hall,Plant Manager,23,matthew.hall101@contoso.com,+1-441-305-3399,2016-08-27,97234.76,Manufacturing Plant 1,Active,,16
+102,Christine,Martinez,Christine Martinez,Quality Engineer,12,christine.martinez102@contoso.com,+1-675-972-8354,2020-07-16,167387.02,Disaster Recovery Site,Active,,59
+103,Samantha,Adams,Samantha Adams,Procurement Specialist,41,samantha.adams103@contoso.com,+1-650-269-8682,2016-09-10,127964.33,Sales Office South,Active,,8
+104,Nicole,Davis,Nicole Davis,Test Automation Engineer,23,nicole.davis104@contoso.com,+1-517-672-8404,2015-10-31,61205.2,Research Center,Active,,16
+105,Barbara,Gray,Barbara Gray,Warehouse Supervisor,6,barbara.gray105@contoso.com,+1-719-593-8581,2021-08-30,150754.35,West Campus A,Active,,14
+106,Emma,James,Emma James,Senior Procurement Specialist,13,emma.james106@contoso.com,+1-687-713-3471,2021-10-14,213024.19,European HQ,Active,,177
+107,Amanda,Sanders,Amanda Sanders,Test Automation Engineer,6,amanda.sanders107@contoso.com,+1-376-240-5059,2022-03-31,171757.58,European HQ,Active,,14
+108,Brandon,Lee,Brandon Lee,Security Analyst,24,brandon.lee108@contoso.com,+1-596-618-6543,2018-03-04,167018.12,West Campus A,Active,,22
+109,Samuel,Nelson,Samuel Nelson,Purchasing Manager,5,samuel.nelson109@contoso.com,+1-771-894-7333,2016-01-23,101884.25,Innovation Hub,Active,,33
+110,Kevin,Hernandez,Kevin Hernandez,Executive Assistant,38,kevin.hernandez110@contoso.com,+1-558-517-7421,2016-08-02,76277.02,West Campus B,Active,,35
+111,Timothy,Gray,Timothy Gray,Product Manager,22,timothy.gray111@contoso.com,+1-919-956-9624,2022-07-07,70419.74,Customer Experience Hub,Active,,15
+112,John,Campbell,John Campbell,Enterprise Architect,20,john.campbell112@contoso.com,+1-549-984-8967,2017-05-27,86680.86,Data Center Secondary,Active,,47
+113,Donna,Gonzalez,Donna Gonzalez,Risk Analyst,33,donna.gonzalez113@contoso.com,+1-739-238-6517,2023-04-14,199604.81,Innovation Hub,Active,,186
+114,Timothy,Martin,Timothy Martin,Enterprise Architect,11,timothy.martin114@contoso.com,+1-989-839-3712,2022-10-08,173995.19,West Campus A,Active,,7
+115,Gregory,Ross,Gregory Ross,Cloud Architect,16,gregory.ross115@contoso.com,+1-491-970-8355,2021-11-05,93610.49,Warehouse Central,Active,,20
+116,Jacob,Harris,Jacob Harris,Vice President,24,jacob.harris116@contoso.com,+1-651-672-5616,2021-05-25,183390.47,Operations Center,Active,,22
+117,Christopher,Sanchez,Christopher Sanchez,Senior Product Manager,39,christopher.sanchez117@contoso.com,+1-253-856-8873,2017-10-21,199229.3,Field Office North,Active,,12
+118,Janet,Peterson,Janet Peterson,Financial Analyst,8,janet.peterson118@contoso.com,+1-981-364-5469,2015-12-10,129137.67,Operations Center,Active,,34
+119,Laura,Lopez,Laura Lopez,Infrastructure Engineer,15,laura.lopez119@contoso.com,+1-227-624-1872,2018-12-02,120414.9,Research Center,Active,,80
+120,David,Mitchell,David Mitchell,Principal Engineer,15,david.mitchell120@contoso.com,+1-301-931-6493,2018-07-29,185577.81,Data Center Secondary,Inactive,,80
+121,Jacob,Long,Jacob Long,Front-End Engineer,9,jacob.long121@contoso.com,+1-830-205-2298,2020-01-12,58135.64,Manufacturing Plant 2,Active,,9
+122,Stephen,Morales,Stephen Morales,Senior Legal Counsel,39,stephen.morales122@contoso.com,+1-313-994-5720,2019-09-30,94210.64,Data Center Primary,Inactive,,12
+123,Sharon,Bennett,Sharon Bennett,UX Designer,40,sharon.bennett123@contoso.com,+1-313-711-9782,2015-09-15,57711.83,Operations Center,Active,,55
+124,Janet,Jackson,Janet Jackson,Database Administrator,19,janet.jackson124@contoso.com,+1-829-561-4941,2015-01-07,149159.51,Manufacturing Plant 1,Active,,27
+125,David,Cooper,David Cooper,Network Engineer,24,david.cooper125@contoso.com,+1-757-719-9316,2020-11-24,146435.07,Training Center,Active,,22
+126,Jennifer,Bennett,Jennifer Bennett,Security Analyst,25,jennifer.bennett126@contoso.com,+1-965-216-6850,2017-11-04,185105.8,Research Center,Active,,11
+127,Raymond,Brooks,Raymond Brooks,Learning & Development Manager,7,raymond.brooks127@contoso.com,+1-974-540-3185,2023-03-31,62315.39,Field Office North,Active,,54
+128,Samuel,Thompson,Samuel Thompson,Senior Vice President,50,samuel.thompson128@contoso.com,+1-912-690-3986,2020-03-18,188897.12,West Campus B,Active,,89
+129,Ryan,Jones,Ryan Jones,Senior Sales Representative,19,ryan.jones129@contoso.com,+1-404-242-6170,2015-06-29,209006.21,Operations Center,Active,,27
+130,Brenda,Nguyen,Brenda Nguyen,IT Analyst,17,brenda.nguyen130@contoso.com,+1-862-395-5687,2023-06-13,113900.74,West Campus A,Active,,60
+131,Kevin,Wright,Kevin Wright,Security Analyst,8,kevin.wright131@contoso.com,+1-609-961-8204,2019-11-25,202615.19,Training Center,Active,,34
+132,Betty,Cook,Betty Cook,Senior QA Engineer,45,betty.cook132@contoso.com,+1-731-473-2353,2019-02-13,174968.42,West Campus B,Active,,5
+133,Betty,Bailey,Betty Bailey,Senior Procurement Specialist,19,betty.bailey133@contoso.com,+1-281-535-5843,2016-02-25,105571.82,Innovation Hub,Active,,27
+134,Nancy,Myers,Nancy Myers,Facilities Manager,29,nancy.myers134@contoso.com,+1-243-944-6776,2020-01-06,156450.49,Customer Experience Hub,Active,,24
+135,Linda,Martinez,Linda Martinez,Process Engineer,43,linda.martinez135@contoso.com,+1-572-725-3621,2019-07-22,212210.25,Data Center Secondary,Active,,2
+136,Gregory,Edwards,Gregory Edwards,Product Manager,3,gregory.edwards136@contoso.com,+1-441-997-7001,2015-10-03,114754.85,Disaster Recovery Site,Inactive,,3
+137,Lisa,Hughes,Lisa Hughes,Security Analyst,29,lisa.hughes137@contoso.com,+1-654-981-2259,2019-03-04,149697.09,Operations Center,Active,,24
+138,Kenneth,James,Kenneth James,Brand Manager,18,kenneth.james138@contoso.com,+1-226-953-4048,2016-04-09,137342.25,Training Center,Active,,31
+139,Sarah,King,Sarah King,Senior HR Generalist,50,sarah.king139@contoso.com,+1-656-419-5678,2022-11-23,169506.81,APAC HQ,Active,,89
+140,Karen,Martinez,Karen Martinez,Solutions Architect,29,karen.martinez140@contoso.com,+1-655-289-6236,2022-12-31,165193.57,West Campus B,Active,,24
+141,Donna,Hill,Donna Hill,Senior Director,11,donna.hill141@contoso.com,+1-378-570-9335,2022-02-25,91999.87,Manufacturing Plant 2,Active,,7
+142,Donald,Cook,Donald Cook,Operations Manager,2,donald.cook142@contoso.com,+1-786-577-8657,2021-03-19,187604.18,Field Office North,Active,,19
+143,Susan,Rodriguez,Susan Rodriguez,CISO,20,susan.rodriguez143@contoso.com,+1-936-690-9612,2023-01-15,122781.19,Customer Experience Hub,Active,,47
+144,Barbara,Taylor,Barbara Taylor,Plant Manager,21,barbara.taylor144@contoso.com,+1-660-677-9476,2015-10-31,111844.94,Field Office North,Active,,29
+145,Betty,Taylor,Betty Taylor,Test Automation Engineer,28,betty.taylor145@contoso.com,+1-327-730-3507,2015-08-15,105180.55,Manufacturing Plant 1,Active,,21
+146,Alexander,Lewis,Alexander Lewis,Legal Counsel,23,alexander.lewis146@contoso.com,+1-280-456-4216,2018-03-09,159784.42,Field Office North,Active,,16
+147,Benjamin,Hill,Benjamin Hill,Compliance Officer,40,benjamin.hill147@contoso.com,+1-714-856-3762,2016-01-18,152648.39,Disaster Recovery Site,Active,,55
+148,Raymond,Watson,Raymond Watson,Logistics Coordinator,47,raymond.watson148@contoso.com,+1-777-242-1464,2018-10-14,68401.77,Disaster Recovery Site,Active,,13
+149,Anthony,Howard,Anthony Howard,Manufacturing Engineer,27,anthony.howard149@contoso.com,+1-231-709-9938,2022-03-02,102795.82,Sales Office South,Active,,43
+150,Rachel,Evans,Rachel Evans,UX Designer,20,rachel.evans150@contoso.com,+1-905-261-3589,2015-10-26,127534.91,APAC HQ,Active,,47
+151,Amanda,Richardson,Amanda Richardson,Procurement Specialist,10,amanda.richardson151@contoso.com,+1-526-951-6658,2023-01-21,215936.73,Data Center Secondary,Active,,17
+152,Shirley,Gomez,Shirley Gomez,Procurement Specialist,7,shirley.gomez152@contoso.com,+1-677-325-5382,2017-09-17,129183.34,Data Center Secondary,Active,,54
+153,Donna,Roberts,Donna Roberts,IT Support Specialist,40,donna.roberts153@contoso.com,+1-363-535-6123,2017-10-13,86322.63,Manufacturing Plant 1,Active,,55
+154,Shirley,Morris,Shirley Morris,Controller,32,shirley.morris154@contoso.com,+1-223-292-7442,2020-07-30,138398.34,Warehouse Central,Active,,4
+155,Melissa,Miller,Melissa Miller,Financial Analyst,4,melissa.miller155@contoso.com,+1-811-869-8710,2020-07-20,102148.48,Headquarters Tower,Active,,58
+156,Laura,Moore,Laura Moore,Operations Manager,17,laura.moore156@contoso.com,+1-612-574-1741,2023-07-26,121095.97,Disaster Recovery Site,Active,,60
+157,George,Bell,George Bell,Senior Network Engineer,19,george.bell157@contoso.com,+1-716-661-5582,2019-05-02,191176.37,Innovation Hub,Active,,27
+158,Sarah,Taylor,Sarah Taylor,CISO,7,sarah.taylor158@contoso.com,+1-547-771-6990,2019-03-09,179569.25,Manufacturing Plant 2,Active,,54
+159,Rebecca,Rogers,Rebecca Rogers,Senior IT Analyst,3,rebecca.rogers159@contoso.com,+1-340-930-6456,2015-06-09,187654.37,Operations Center,Active,,3
+160,Helen,Morgan,Helen Morgan,Senior Procurement Specialist,9,helen.morgan160@contoso.com,+1-526-366-7438,2021-11-16,218451.6,Sales Office South,Active,,9
+161,Nicholas,Morgan,Nicholas Morgan,QA Engineer,35,nicholas.morgan161@contoso.com,+1-776-506-8780,2022-12-12,189598.56,Research Center,Active,,23
+162,Joseph,Torres,Joseph Torres,Controller,38,joseph.torres162@contoso.com,+1-942-904-1436,2023-12-08,153490.09,Sales Office East,Active,,35
+163,Justin,Howard,Justin Howard,Systems Administrator,15,justin.howard163@contoso.com,+1-691-374-9589,2021-07-18,158789.16,Innovation Hub,Active,,80
+164,Timothy,Jackson,Timothy Jackson,Brand Manager,44,timothy.jackson164@contoso.com,+1-786-917-2800,2015-05-10,86479.41,European HQ,Active,,38
+165,Lisa,Turner,Lisa Turner,Account Executive,45,lisa.turner165@contoso.com,+1-713-993-8726,2019-08-08,199014.92,West Campus A,Active,,5
+166,Eric,Clark,Eric Clark,Senior Procurement Specialist,36,eric.clark166@contoso.com,+1-689-738-7173,2022-06-05,106769.18,Manufacturing Plant 1,Active,,49
+167,Jonathan,Baker,Jonathan Baker,Operations Analyst,35,jonathan.baker167@contoso.com,+1-990-938-5331,2022-07-31,155662.64,Manufacturing Plant 2,Active,,23
+168,Emily,Gomez,Emily Gomez,Marketing Analyst,20,emily.gomez168@contoso.com,+1-989-495-4396,2018-05-04,168889.59,APAC HQ,Active,,47
+169,Brian,Gomez,Brian Gomez,HR Manager,47,brian.gomez169@contoso.com,+1-324-787-9899,2018-03-24,117649.54,Training Center,Active,,13
+170,Charles,Nguyen,Charles Nguyen,Financial Analyst,3,charles.nguyen170@contoso.com,+1-280-554-8247,2023-01-04,163235.39,APAC HQ,Active,,3
+171,Jonathan,Wright,Jonathan Wright,Senior Director,36,jonathan.wright171@contoso.com,+1-340-311-4920,2018-01-17,95005.58,Operations Center,Active,,49
+172,Ashley,Miller,Ashley Miller,Senior Help Desk Technician,7,ashley.miller172@contoso.com,+1-934-683-2647,2018-09-14,167396.68,Data Center Secondary,Inactive,,54
+173,Stephen,Lee,Stephen Lee,Chief of Staff,27,stephen.lee173@contoso.com,+1-688-866-4267,2020-05-02,179725.32,Sales Office South,Active,,43
+174,Samuel,Davis,Samuel Davis,Senior DevOps Engineer,50,samuel.davis174@contoso.com,+1-787-437-9767,2022-04-25,176883.28,West Campus A,Active,,89
+175,Daniel,Torres,Daniel Torres,IT Analyst,12,daniel.torres175@contoso.com,+1-707-390-5742,2019-06-15,199662.62,Headquarters Tower,Active,,59
+176,Helen,Wilson,Helen Wilson,Financial Analyst,22,helen.wilson176@contoso.com,+1-856-756-9590,2020-02-05,136495.55,Data Center Secondary,Active,,15
+177,Kathleen,Wright,Kathleen Wright,Data Engineer,13,kathleen.wright177@contoso.com,+1-366-948-8518,2018-09-16,161967.08,Manufacturing Plant 1,Inactive,,106
+178,Amanda,Nguyen,Amanda Nguyen,Vice President,37,amanda.nguyen178@contoso.com,+1-397-379-7643,2023-06-29,191453.32,Operations Center,Active,,52
+179,Rebecca,Cruz,Rebecca Cruz,Enterprise Architect,7,rebecca.cruz179@contoso.com,+1-688-531-5064,2016-07-29,56126.97,Training Center,Active,,54
+180,Paul,Nelson,Paul Nelson,Learning & Development Manager,20,paul.nelson180@contoso.com,+1-786-211-5285,2023-02-08,162857.76,Warehouse Central,Active,,47
+181,Sarah,Morris,Sarah Morris,Business Analyst,20,sarah.morris181@contoso.com,+1-902-714-6095,2019-07-19,168897.91,Sales Office South,Active,,47
+182,Mark,Lewis,Mark Lewis,Full-Stack Engineer,9,mark.lewis182@contoso.com,+1-665-965-7121,2016-09-19,123614.53,Field Office North,Active,,9
+183,Jonathan,Cruz,Jonathan Cruz,Brand Manager,14,jonathan.cruz183@contoso.com,+1-972-810-2341,2022-08-18,141708.6,Operations Center,Active,,25
+184,Barbara,Kelly,Barbara Kelly,Senior Systems Administrator,8,barbara.kelly184@contoso.com,+1-717-407-9792,2021-02-21,79725.64,Sales Office West,Active,,34
+185,Jeffrey,Anderson,Jeffrey Anderson,Account Executive,44,jeffrey.anderson185@contoso.com,+1-797-700-2489,2023-01-15,203316.74,European HQ,Active,,38
+186,Ryan,Taylor,Ryan Taylor,IT Support Specialist,33,ryan.taylor186@contoso.com,+1-777-259-8575,2020-02-15,166006.67,Sales Office South,Active,,113
+187,Ronald,Allen,Ronald Allen,Sales Manager,1,ronald.allen187@contoso.com,+1-274-246-7941,2021-06-26,111847.26,West Campus B,Active,,77
+188,Linda,Rodriguez,Linda Rodriguez,IT Analyst,31,linda.rodriguez188@contoso.com,+1-618-384-3218,2018-03-21,181361.57,Customer Experience Hub,Active,,
+189,Timothy,Stewart,Timothy Stewart,Senior Security Analyst,25,timothy.stewart189@contoso.com,+1-899-877-9835,2015-11-25,76943.32,Research Center,Active,,11
+190,Jonathan,Phillips,Jonathan Phillips,Product Manager,34,jonathan.phillips190@contoso.com,+1-428-203-1372,2023-03-01,216450.96,European HQ,Active,,6
+191,Brenda,Parker,Brenda Parker,Senior Security Analyst,35,brenda.parker191@contoso.com,+1-453-671-6671,2017-07-29,80595.03,Manufacturing Plant 2,Active,,23
+192,Patrick,Anderson,Patrick Anderson,Executive Assistant,3,patrick.anderson192@contoso.com,+1-829-984-1256,2019-09-14,94709.94,West Campus B,Active,,3
+193,Robert,Stewart,Robert Stewart,Vice President,39,robert.stewart193@contoso.com,+1-249-450-1724,2022-11-20,121373.78,Warehouse Central,Active,,12
+194,Linda,Moore,Linda Moore,Senior Financial Analyst,33,linda.moore194@contoso.com,+1-949-789-6224,2017-08-17,150283.34,Sales Office West,Active,,113
+195,Charles,Reyes,Charles Reyes,Marketing Analyst,34,charles.reyes195@contoso.com,+1-507-481-1998,2019-08-21,146858.49,Disaster Recovery Site,Active,,6
+196,Daniel,Brooks,Daniel Brooks,Database Administrator,44,daniel.brooks196@contoso.com,+1-707-248-6642,2021-03-26,210361.76,Training Center,Active,,38
+197,Kenneth,Long,Kenneth Long,Senior Help Desk Technician,27,kenneth.long197@contoso.com,+1-507-585-4012,2016-09-03,179478.66,APAC HQ,Active,,43
+198,Mark,Hill,Mark Hill,Project Manager,46,mark.hill198@contoso.com,+1-259-775-7761,2020-03-11,214684.72,Field Office North,Active,,56
+199,Stephanie,Young,Stephanie Young,Account Executive,17,stephanie.young199@contoso.com,+1-862-280-8369,2018-09-14,194777.01,West Campus B,Active,,60
+200,Matthew,Miller,Matthew Miller,Senior Security Analyst,18,matthew.miller200@contoso.com,+1-819-817-1647,2022-07-22,199147.38,Manufacturing Plant 2,Active,,31

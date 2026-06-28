@@ -1,0 +1,51 @@
+DepartmentId,DepartmentName,DepartmentCode,Division,ParentDepartmentId,Status
+1,Executive Leadership,EXEC,C-Suite,,Active
+2,Information Technology,IT,Technology,1,Active
+3,Human Resources,HR,Corporate Services,1,Active
+4,Finance & Accounting,FIN,Corporate Services,1,Active
+5,Legal & Compliance,LEG,Corporate Services,1,Active
+6,Operations,OPS,Operations,1,Active
+7,Supply Chain & Procurement,SCP,Operations,6,Active
+8,Facilities Management,FAC,Operations,6,Active
+9,Security,SEC,Operations,6,Active
+10,Sales,SAL,Revenue,1,Active
+11,Marketing,MKT,Revenue,1,Active
+12,Customer Success,CS,Revenue,10,Active
+13,Research & Development,RD,Innovation,1,Active
+14,Product Management,PM,Innovation,13,Active
+15,Data & Analytics,DA,Technology,2,Active
+16,Cybersecurity,CYB,Technology,2,Active
+17,Infrastructure & DevOps,INFRA,Technology,2,Active
+18,Software Engineering,ENG,Technology,2,Active
+19,Quality Assurance,QA,Technology,2,Active
+20,Enterprise Architecture,EA,Technology,2,Active
+21,Project Management Office,PMO,Corporate Services,1,Active
+22,Business Intelligence,BI,Technology,15,Active
+23,Network Operations,NOC,Technology,17,Active
+24,Help Desk,HD,Technology,2,Active
+25,Digital Transformation,DT,Innovation,1,Active
+26,Manufacturing,MFG,Operations,6,Active
+27,Logistics,LOG,Operations,7,Active
+28,Warehouse,WH,Operations,7,Active
+29,Customer Service,CSRV,Revenue,12,Active
+30,Field Sales,FS,Revenue,10,Active
+31,Inside Sales,IS,Revenue,10,Active
+32,Sales Operations,SO,Revenue,10,Active
+33,Account Management,AM,Revenue,10,Active
+34,Partner Relations,PR,Revenue,10,Active
+35,Corporate Communications,CC,Corporate Services,1,Active
+36,Training & Development,TD,Corporate Services,3,Active
+37,Risk Management,RM,Corporate Services,5,Active
+38,Audit,AUD,Corporate Services,5,Active
+39,Tax,TAX,Corporate Services,4,Active
+40,Treasury,TRES,Corporate Services,4,Active
+41,Payroll,PAY,Corporate Services,3,Active
+42,Recruiting,REC,Corporate Services,3,Active
+43,Benefits Administration,BEN,Corporate Services,3,Active
+44,Workplace Experience,WX,Operations,8,Active
+45,Environmental Health & Safety,EHS,Operations,6,Active
+46,Real Estate & Leasing,RE,Operations,8,Active
+47,Sustainability,SUS,Operations,1,Active
+48,Innovation Lab,IL,Innovation,13,Active
+49,Clinical Affairs,CA,Innovation,13,Active
+50,Regulatory Affairs,RA,Corporate Services,5,Active

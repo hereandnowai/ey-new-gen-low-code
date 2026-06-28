@@ -1,0 +1,202 @@
+RoomId,FloorId,BuildingId,RoomNumber,RoomCode,RoomType,Capacity,Status
+1,1,1,101,HQ-TWR-0101,Conference Room,39,Active
+2,1,1,102,HQ-TWR-0102,Server Room,35,Active
+3,1,1,103,HQ-TWR-0103,Storage,11,Active
+4,1,1,104,HQ-TWR-0104,Reception,25,Active
+5,2,1,201,HQ-TWR-0201,Training Room,15,Active
+6,2,1,202,HQ-TWR-0202,Open Workspace,50,Active
+7,2,1,203,HQ-TWR-0203,Office,15,Active
+8,2,1,204,HQ-TWR-0204,Office,21,Active
+9,3,2,101,WCA-0101,Lab,5,Active
+10,3,2,102,WCA-0102,Storage,37,Active
+11,3,2,103,WCA-0103,Open Workspace,14,Active
+12,3,2,104,WCA-0104,Reception,26,Active
+13,3,2,105,WCA-0105,Reception,10,Active
+14,4,2,201,WCA-0201,Server Room,16,Active
+15,4,2,202,WCA-0202,Training Room,35,Active
+16,4,2,203,WCA-0203,Lab,48,Active
+17,4,2,204,WCA-0204,Data Center Floor,28,Active
+18,5,2,301,WCA-0301,Break Room,24,Active
+19,5,2,302,WCA-0302,Storage,9,Active
+20,5,2,303,WCA-0303,Training Room,32,Active
+21,5,2,304,WCA-0304,Conference Room,49,Active
+22,5,2,305,WCA-0305,Office,8,Active
+23,5,2,306,WCA-0306,Server Room,41,Active
+24,6,3,101,WCB-0101,Break Room,39,Active
+25,6,3,102,WCB-0102,Conference Room,25,Active
+26,6,3,103,WCB-0103,Break Room,39,Active
+27,7,3,201,WCB-0201,Training Room,17,Active
+28,7,3,202,WCB-0202,Training Room,1,Active
+29,7,3,203,WCB-0203,Conference Room,44,Active
+30,7,3,204,WCB-0204,Training Room,49,Active
+31,7,3,205,WCB-0205,Lab,50,Active
+32,8,4,101,DC1-0101,Conference Room,19,Active
+33,8,4,102,DC1-0102,Break Room,11,Active
+34,8,4,103,DC1-0103,Reception,1,Active
+35,8,4,104,DC1-0104,Lab,33,Active
+36,9,4,201,DC1-0201,Training Room,7,Active
+37,9,4,202,DC1-0202,Lab,41,Active
+38,9,4,203,DC1-0203,Training Room,39,Active
+39,10,5,101,DC2-0101,Server Room,24,Active
+40,10,5,102,DC2-0102,Server Room,35,Active
+41,10,5,103,DC2-0103,Training Room,1,Active
+42,11,5,201,DC2-0201,Open Workspace,32,Active
+43,11,5,202,DC2-0202,Office,8,Active
+44,11,5,203,DC2-0203,Open Workspace,20,Active
+45,11,5,204,DC2-0204,Storage,4,Active
+46,11,5,205,DC2-0205,Storage,37,Active
+47,11,5,206,DC2-0206,Conference Room,6,Active
+48,12,6,101,MFG1-0101,Conference Room,49,Active
+49,12,6,102,MFG1-0102,Training Room,50,Active
+50,12,6,103,MFG1-0103,Server Room,9,Active
+51,12,6,104,MFG1-0104,Reception,36,Active
+52,12,6,105,MFG1-0105,Server Room,17,Active
+53,13,6,201,MFG1-0201,Data Center Floor,28,Active
+54,13,6,202,MFG1-0202,Storage,35,Active
+55,13,6,203,MFG1-0203,Storage,46,Active
+56,13,6,204,MFG1-0204,Lab,26,Active
+57,13,6,205,MFG1-0205,Open Workspace,29,Active
+58,13,6,206,MFG1-0206,Training Room,29,Active
+59,14,7,101,MFG2-0101,Storage,15,Active
+60,14,7,102,MFG2-0102,Conference Room,22,Active
+61,15,7,201,MFG2-0201,Data Center Floor,36,Active
+62,15,7,202,MFG2-0202,Storage,38,Active
+63,16,7,301,MFG2-0301,Office,5,Active
+64,16,7,302,MFG2-0302,Office,15,Active
+65,16,7,303,MFG2-0303,Conference Room,3,Active
+66,17,7,401,MFG2-0401,Conference Room,33,Active
+67,17,7,402,MFG2-0402,Storage,18,Active
+68,17,7,403,MFG2-0403,Reception,14,Active
+69,17,7,404,MFG2-0404,Training Room,9,Active
+70,18,7,501,MFG2-0501,Data Center Floor,31,Active
+71,18,7,502,MFG2-0502,Storage,31,Active
+72,18,7,503,MFG2-0503,Break Room,13,Active
+73,18,7,504,MFG2-0504,Conference Room,7,Active
+74,18,7,505,MFG2-0505,Break Room,23,Active
+75,18,7,506,MFG2-0506,Break Room,27,Active
+76,19,8,101,WHC-0101,Office,44,Active
+77,19,8,102,WHC-0102,Conference Room,4,Active
+78,19,8,103,WHC-0103,Break Room,47,Active
+79,19,8,104,WHC-0104,Open Workspace,7,Active
+80,19,8,105,WHC-0105,Storage,13,Active
+81,20,8,201,WHC-0201,Training Room,29,Active
+82,20,8,202,WHC-0202,Server Room,28,Active
+83,20,8,203,WHC-0203,Server Room,18,Active
+84,21,8,301,WHC-0301,Storage,5,Active
+85,21,8,302,WHC-0302,Reception,36,Active
+86,21,8,303,WHC-0303,Conference Room,4,Active
+87,21,8,304,WHC-0304,Training Room,1,Active
+88,21,8,305,WHC-0305,Conference Room,49,Active
+89,22,9,101,SOE-0101,Server Room,27,Active
+90,22,9,102,SOE-0102,Reception,31,Active
+91,22,9,103,SOE-0103,Storage,26,Active
+92,23,9,201,SOE-0201,Server Room,25,Active
+93,23,9,202,SOE-0202,Office,25,Active
+94,24,9,301,SOE-0301,Reception,19,Active
+95,24,9,302,SOE-0302,Break Room,45,Active
+96,24,9,303,SOE-0303,Training Room,43,Active
+97,24,9,304,SOE-0304,Reception,10,Active
+98,25,10,101,SOS-0101,Lab,14,Active
+99,25,10,102,SOS-0102,Office,38,Active
+100,25,10,103,SOS-0103,Training Room,4,Active
+101,26,10,201,SOS-0201,Office,4,Active
+102,26,10,202,SOS-0202,Data Center Floor,31,Active
+103,26,10,203,SOS-0203,Training Room,34,Active
+104,26,10,204,SOS-0204,Server Room,4,Active
+105,27,11,101,SOW-0101,Conference Room,12,Active
+106,27,11,102,SOW-0102,Conference Room,39,Active
+107,27,11,103,SOW-0103,Conference Room,44,Active
+108,27,11,104,SOW-0104,Storage,26,Active
+109,27,11,105,SOW-0105,Conference Room,37,Active
+110,27,11,106,SOW-0106,Storage,38,Active
+111,28,11,201,SOW-0201,Office,40,Active
+112,28,11,202,SOW-0202,Conference Room,27,Active
+113,28,11,203,SOW-0203,Data Center Floor,37,Active
+114,28,11,204,SOW-0204,Training Room,21,Active
+115,28,11,205,SOW-0205,Lab,14,Active
+116,28,11,206,SOW-0206,Open Workspace,16,Active
+117,29,12,101,RES-0101,Break Room,9,Active
+118,29,12,102,RES-0102,Lab,30,Active
+119,29,12,103,RES-0103,Open Workspace,49,Active
+120,29,12,104,RES-0104,Conference Room,1,Active
+121,30,12,201,RES-0201,Data Center Floor,37,Active
+122,30,12,202,RES-0202,Conference Room,5,Active
+123,30,12,203,RES-0203,Training Room,14,Active
+124,30,12,204,RES-0204,Training Room,17,Active
+125,30,12,205,RES-0205,Server Room,23,Active
+126,31,12,301,RES-0301,Storage,24,Active
+127,31,12,302,RES-0302,Lab,11,Active
+128,32,12,401,RES-0401,Training Room,46,Active
+129,32,12,402,RES-0402,Lab,40,Active
+130,32,12,403,RES-0403,Training Room,1,Active
+131,32,12,404,RES-0404,Training Room,20,Active
+132,32,12,405,RES-0405,Conference Room,9,Active
+133,33,13,101,TRN-0101,Conference Room,7,Active
+134,33,13,102,TRN-0102,Training Room,10,Active
+135,33,13,103,TRN-0103,Lab,19,Active
+136,33,13,104,TRN-0104,Data Center Floor,14,Active
+137,34,13,201,TRN-0201,Storage,44,Active
+138,34,13,202,TRN-0202,Lab,33,Active
+139,34,13,203,TRN-0203,Reception,17,Active
+140,34,13,204,TRN-0204,Office,6,Active
+141,35,14,101,CXH-0101,Lab,3,Active
+142,35,14,102,CXH-0102,Office,22,Active
+143,35,14,103,CXH-0103,Server Room,41,Active
+144,35,14,104,CXH-0104,Lab,11,Active
+145,35,14,105,CXH-0105,Reception,36,Active
+146,36,14,201,CXH-0201,Training Room,1,Active
+147,36,14,202,CXH-0202,Conference Room,5,Active
+148,36,14,203,CXH-0203,Server Room,35,Active
+149,36,14,204,CXH-0204,Office,24,Active
+150,36,14,205,CXH-0205,Data Center Floor,36,Active
+151,37,14,301,CXH-0301,Break Room,9,Active
+152,37,14,302,CXH-0302,Office,20,Active
+153,37,14,303,CXH-0303,Open Workspace,3,Active
+154,38,15,101,EUHQ-0101,Storage,44,Active
+155,38,15,102,EUHQ-0102,Storage,43,Active
+156,38,15,103,EUHQ-0103,Conference Room,23,Active
+157,38,15,104,EUHQ-0104,Training Room,27,Active
+158,39,15,201,EUHQ-0201,Server Room,16,Active
+159,39,15,202,EUHQ-0202,Server Room,12,Active
+160,39,15,203,EUHQ-0203,Break Room,2,Active
+161,39,15,204,EUHQ-0204,Server Room,48,Active
+162,39,15,205,EUHQ-0205,Open Workspace,27,Active
+163,39,15,206,EUHQ-0206,Storage,18,Active
+164,40,15,301,EUHQ-0301,Conference Room,25,Active
+165,40,15,302,EUHQ-0302,Office,31,Active
+166,40,15,303,EUHQ-0303,Storage,13,Active
+167,41,16,101,APHQ-0101,Open Workspace,20,Active
+168,41,16,102,APHQ-0102,Storage,15,Active
+169,41,16,103,APHQ-0103,Office,43,Active
+170,41,16,104,APHQ-0104,Storage,26,Active
+171,41,16,105,APHQ-0105,Open Workspace,18,Active
+172,42,16,201,APHQ-0201,Lab,23,Active
+173,42,16,202,APHQ-0202,Training Room,26,Active
+174,43,16,301,APHQ-0301,Open Workspace,2,Active
+175,43,16,302,APHQ-0302,Conference Room,17,Active
+176,43,16,303,APHQ-0303,Server Room,38,Active
+177,43,16,304,APHQ-0304,Lab,3,Active
+178,43,16,305,APHQ-0305,Conference Room,39,Active
+179,43,16,306,APHQ-0306,Break Room,23,Active
+180,44,17,101,OPC-0101,Break Room,39,Active
+181,44,17,102,OPC-0102,Training Room,8,Active
+182,44,17,103,OPC-0103,Break Room,37,Active
+183,44,17,104,OPC-0104,Storage,17,Active
+184,45,17,201,OPC-0201,Break Room,1,Active
+185,45,17,202,OPC-0202,Training Room,35,Active
+186,46,18,101,FON-0101,Open Workspace,28,Active
+187,46,18,102,FON-0102,Conference Room,43,Active
+188,46,18,103,FON-0103,Open Workspace,40,Active
+189,47,19,101,DRS-0101,Conference Room,47,Active
+190,47,19,102,DRS-0102,Lab,33,Active
+191,47,19,103,DRS-0103,Lab,43,Active
+192,47,19,104,DRS-0104,Break Room,21,Active
+193,48,20,101,INH-0101,Lab,36,Active
+194,48,20,102,INH-0102,Server Room,13,Active
+195,48,20,103,INH-0103,Break Room,43,Active
+196,48,20,104,INH-0104,Break Room,44,Active
+197,48,20,105,INH-0105,Server Room,40,Active
+198,49,20,201,INH-0201,Lab,26,Active
+199,49,20,202,INH-0202,Training Room,1,Active
+200,49,20,203,INH-0203,Lab,19,Active
+201,49,20,204,INH-0204,Storage,28,Active
